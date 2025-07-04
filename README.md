@@ -1,6 +1,8 @@
 <h1>Hi There 👋, I'm Andika Cahya Rahman</h1>
 <h3>A Software Engineering's Student</h3>
 
+<hr>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/andika cahya rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andika cahya rahman" height="30" width="40" /></a>
