@@ -60,17 +60,17 @@
 <h3 align="left">Cyber Security :</h3>
 <p align="left">
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Kali-dragon-icon.svg" alt="kalilinux" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAx6camOf_G96Zcs2Zj34Yjmy0ysPd-p0oJQ&s" alt="kalilinux" width="40" height="40"/>
   </a>
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/23152430?s=200&v=4" alt="burpsuite" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWDsIMwEubnS43MuXjzPzgFVJ1rGtiDFJjwg&s" alt="burpsuite" width="40" height="40"/>
   </a>
 </p>
 
 <h3 align="left">Framework :</h3>
 <p align="left">
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://download.logo.wine/logo/Laravel/Laravel-Logo.wine.png" alt="laravel" width="100" height="40"/>
+    <img src="https://download.logo.wine/logo/Laravel/Laravel-Logo.wine.png" alt="laravel" width="50" height="40"/>
   </a>
 </p>
 
