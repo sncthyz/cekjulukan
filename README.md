@@ -1,7 +1,12 @@
+
+<h1>print("Hello World")</h1>
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*CmhEYGvy3un7cHHnYLchCw.png">
 <h1>Hi There 👋, I'm Andika Cahya Rahman</h1>
 <h3>A Software Engineering's Student</h3>
 
 <hr>
+<h2>About me</h2>
+<p>lorem ipsum dolor sit ametttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
